@@ -1,0 +1,14 @@
+{
+	"files":
+	{
+		"backbone": "http://documentcloud.github.com/backbone/backbone-min.js",
+		"jquery": "http://code.jquery.com/jquery.min.js",
+		"underscore": "http://documentcloud.github.com/underscore/underscore-min.js"
+	},
+	"packages":
+	{
+		"angular-seed": "https://github.com/angular/angular-seed/zipball/master",
+		"html5-boilerplate": "http://github.com/h5bp/html5-boilerplate/zipball/v2.0stripped",
+		"twitter-bootstrap": "http://twitter.github.com/bootstrap/assets/bootstrap.zip"
+	}
+}
